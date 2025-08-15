@@ -1,0 +1,7 @@
+# Example constraints for Spartan-6 FPGA (adjust pins as needed)
+NET "clk" LOC = P123;
+NET "rest" LOC = P45;
+NET "sensor1" LOC = P67;
+NET "sensor2" LOC = P89;
+NET "switch1" LOC = P101;
+NET "switch2" LOC = P102;

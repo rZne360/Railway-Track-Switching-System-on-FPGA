@@ -1,0 +1,8 @@
+Algorithm for Railway Track Switching System:
+1. Start the system.
+2. If reset is active, set switch1 = 0 and switch2 = 0.
+3. Read sensor1 and sensor2 inputs.
+4. If sensor1=1 and sensor2=0, set switch1=1 and switch2=0.
+5. If sensor1=0 and sensor2=1, set switch1=0 and switch2=1.
+6. If both sensors are 0, set both switches to 0.
+7. Repeat process continuously.
